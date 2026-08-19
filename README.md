@@ -22,96 +22,70 @@
 
 ---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm an Artificial Intelligence & Machine Learning student who enjoys building practical applications with modern technologies.
+I'm an **Artificial Intelligence & Machine Learning student** who enjoys building practical applications with modern technologies.
 
-My main interests are AI/ML, Full Stack Development, Cloud Computing, and DevOps. I enjoy taking an idea from concept to implementation and learning new technologies through real-world projects.
+My main interests are **AI/ML, Full Stack Development, Cloud Computing, and DevOps**. I enjoy taking an idea from concept to implementation and learning new technologies through real-world projects.
 
-🔭 What I'm Working On
-🤖 Building AI & Machine Learning applications
-☁️ Exploring AWS Cloud services
-🌐 Developing full-stack web applications
-🚀 Learning Docker, CI/CD & DevOps
-🔐 Building secure cloud-based applications
-💡 What I Enjoy
+### 🔭 What I'm Working On
 
-Build → Learn → Experiment → Improve → Deploy
+* 🤖 Building AI & Machine Learning applications
+* ☁️ Exploring AWS Cloud services
+* 🌐 Developing full-stack web applications
+* 🚀 Learning Docker, CI/CD & DevOps
+* 🔐 Building secure cloud-based applications
 
-I believe that the best way to learn technology is by building real projects and solving real problems.
+### 💡 What I Enjoy
+
+**Build → Learn → Experiment → Improve → Deploy**
+
+I believe that the best way to learn technology is by **building real projects and solving real problems**.
+
 ---
 
-## ⚡ What I Do
+## ⚡ My Focus Areas
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🤖 AI / ML
-
-Machine Learning
-Deep Learning
-Computer Vision
-Data Processing
-
-</td>
-
-<td width="33%" align="center">
-
-### 🌐 Development
-
-React
-Node.js
-FastAPI
-Flask
-REST APIs
-
-</td>
-
-<td width="33%" align="center">
-
-### ☁️ Cloud
-
-AWS
-Docker
-Git
-GitHub
-Deployment
-
-</td>
-</tr>
-</table>
+**Artificial Intelligence** • **Machine Learning** • **Full Stack Development** • **Cloud Computing** • **DevOps** • **Computer Vision**
 
 ---
 
 ## 🧰 My Toolbox
 
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=C, Java, SQL" />
+  <img src="https://skillicons.dev/icons?i=c,java,mysql" />
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-### Web Development
+### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask" />
 </p>
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
 </p>
+
+### 🗄️ Databases & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+</p>
+
+**Cloudinary • REST APIs • Groq API**
 
 ---
 
@@ -131,14 +105,15 @@ A cloud-based application for securely storing and sharing files with controlled
 **Stack**
 
 `React` `Flask` `AWS S3`
-`MySQL` `Supabase` `Groq`
+`MySQL` `Supabase` `Groq API`
 
-**Built for**
+**Built For**
 
 🔒 Secure storage
 🔑 Protected sharing
 👥 Access control
 ☁️ Cloud deployment
+🤖 AI-powered features
 
 </td>
 
@@ -155,7 +130,7 @@ A deep-learning project for analyzing medical images using computer vision techn
 `Python` `TensorFlow`
 `Keras` `OpenCV`
 
-**Built for**
+**Built For**
 
 🧠 Image analysis
 🤖 Classification
@@ -181,10 +156,11 @@ An AI application for identifying plant diseases from leaf images.
 `Python` `TensorFlow`
 `Keras` `OpenCV`
 
-**Built for**
+**Built For**
 
 🌿 Image classification
 🧠 CNN prediction
+🖼️ Image processing
 📊 Model evaluation
 
 </td>
@@ -200,9 +176,9 @@ A REST API that serves predictions from a trained machine learning model.
 **Stack**
 
 `Python` `Scikit-learn`
-`FastAPI` `Uvicorn`
+`FastAPI` `Uvicorn` `Joblib`
 
-**Built for**
+**Built For**
 
 🤖 ML prediction
 ⚡ REST API
@@ -247,27 +223,38 @@ A REST API that serves predictions from a trained machine learning model.
 
 ## 🔥 Currently Exploring
 
-```text
-AWS Cloud Architecture       ☁️
-Docker & Containers          🐳
-CI/CD Pipelines              🔄
-Advanced Machine Learning    🤖
-Deep Learning                🧠
-Cloud Security               🔐
-Scalable APIs                ⚡
-```
+| Area           | Technologies / Topics                            |
+| -------------- | ------------------------------------------------ |
+| 🤖 AI & ML     | Machine Learning, Deep Learning, Computer Vision |
+| ☁️ Cloud       | AWS EC2, S3, RDS, Lambda, SNS                    |
+| 🚀 DevOps      | Docker, CI/CD, Git, GitHub                       |
+| 🌐 Development | React, Node.js, Flask, FastAPI                   |
+| 🔐 Security    | Secure Cloud Applications, Authentication        |
 
 ---
 
-## 📌 My Development Philosophy
+## 📚 Education
 
-> **Don't just learn technology. Build something with it.**
+🎓 **Artificial Intelligence & Machine Learning**
 
-I believe the best way to learn is to take an idea, build it, break it, improve it, and deploy it.
+Currently developing skills in:
+
+`AI` • `ML` • `Software Development` • `Cloud Computing` • `DevOps`
 
 ---
 
-## 🌐 Find Me Here
+## 🎯 2026 Goals
+
+* 🤖 Build advanced AI/ML projects
+* ☁️ Strengthen AWS Cloud skills
+* 🚀 Learn and implement CI/CD pipelines
+* 🐳 Improve Docker & DevOps knowledge
+* 🌐 Build production-ready applications
+* 💼 Prepare for software/AI engineering opportunities
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
 
@@ -279,17 +266,27 @@ I believe the best way to learn is to take an idea, build it, break it, improve 
 <img src="https://img.shields.io/badge/Gmail-gokulsundarpandian%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/GOKUL-S2648">
+<img src="https://img.shields.io/badge/GitHub-GOKUL--S2648-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
+
+---
+
+## 💭 My Philosophy
+
+> **Build something. Learn something. Improve something.**
+
+I believe consistent learning and hands-on projects are the best way to grow as a developer.
 
 ---
 
 <div align="center">
 
-### 💭 "Build something. Learn something. Improve something."
+### 🚀 Build • Learn • Deploy • Repeat
 
-<br>
-
-**Thanks for stopping by! 👋**
+**Thanks for visiting my profile! 👋**
 
 ⭐ Feel free to explore my repositories.
 
