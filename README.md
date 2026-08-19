@@ -89,7 +89,7 @@ Deployment
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=C, Java, SQL" />
 </p>
 
 ### AI / Machine Learning
@@ -104,7 +104,7 @@ Deployment
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask" />
 </p>
 
 ### Cloud & DevOps
