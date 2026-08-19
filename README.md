@@ -22,30 +22,23 @@
 
 ---
 
-## 🧑‍💻 Who Am I?
+👨‍💻 About Me
 
-```python
-class Gokul:
+I'm an Artificial Intelligence & Machine Learning student who enjoys building practical applications with modern technologies.
 
-    role = "AI & Machine Learning Student"
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Full Stack Development",
-        "Cloud Computing",
-        "DevOps"
-    ]
+My main interests are AI/ML, Full Stack Development, Cloud Computing, and DevOps. I enjoy taking an idea from concept to implementation and learning new technologies through real-world projects.
 
-    currently_learning = [
-        "AWS",
-        "Docker",
-        "CI/CD",
-        "Advanced AI/ML"
-    ]
+🔭 What I'm Working On
+🤖 Building AI & Machine Learning applications
+☁️ Exploring AWS Cloud services
+🌐 Developing full-stack web applications
+🚀 Learning Docker, CI/CD & DevOps
+🔐 Building secure cloud-based applications
+💡 What I Enjoy
 
-    goal = "Build useful technology that solves real problems 🚀"
-```
+Build → Learn → Experiment → Improve → Deploy
 
+I believe that the best way to learn technology is by building real projects and solving real problems.
 ---
 
 ## ⚡ What I Do
