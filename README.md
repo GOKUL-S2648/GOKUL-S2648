@@ -4,7 +4,7 @@
 
 ### AI & Machine Learning Student | Full-Stack Developer | Cloud & DevOps Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Exploring+Generative+AI+%26+RAG+%F0%9F%A7%A0;Developing+Full-Stack+Solutions+%F0%9F%92%BB;Learning+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Exploring+Generative+AI+%26+RAG+%F0%9F%A7%A0;Developing+Full-Stack+Solutions+%F0%9F%92%BB;Learning+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;Automating+Certificate+Generation+%F0%9F%8F%86" alt="Typing SVG"/>
 
 <br/>
 
@@ -37,6 +37,7 @@ My interests span **AI/ML, Generative AI, Retrieval-Augmented Generation (RAG), 
 - 🤖 Exploring AI, deep learning, and intelligent application development.
 - 📚 Learning about RAG systems, information retrieval, and LLM-powered applications.
 - 🌐 Developing full-stack applications and backend APIs.
+- 🏆 Automating bulk certificate generation and document workflows.
 - ☁️ Exploring AWS services and cloud-based architectures.
 - 🐳 Improving my knowledge of Docker, CI/CD, and DevOps workflows.
 - 🔐 Building applications with an emphasis on security and reliability.
@@ -60,6 +61,8 @@ My interests span **AI/ML, Generative AI, Retrieval-Augmented Generation (RAG), 
 `Artificial Intelligence` · `Machine Learning` · `Generative AI` · `RAG`
 
 `Computer Vision` · `Full-Stack Development` · `Cloud Computing` · `DevOps`
+
+`Automation` · `Document Generation` · `REST APIs`
 
 </div>
 
@@ -116,7 +119,7 @@ My interests span **AI/ML, Generative AI, Retrieval-Augmented Generation (RAG), 
 
 <div align="center">
 
-*Exploring AI, intelligent applications, full-stack development, and cloud technologies through hands-on projects.*
+*Building practical solutions across AI, automation, full-stack development, and cloud computing.*
 
 </div>
 
@@ -128,7 +131,7 @@ My interests span **AI/ML, Generative AI, Retrieval-Augmented Generation (RAG), 
 
 **Context-Aware AI & Knowledge Retrieval**
 
-An AI project exploring Retrieval-Augmented Generation, which combines information retrieval with large language models to generate responses informed by relevant external information.
+An AI project exploring Retrieval-Augmented Generation, combining information retrieval with large language models to generate responses informed by relevant external information.
 
 **Focus Areas**
 
@@ -179,11 +182,38 @@ A medical image analysis project focused on exploring brain tumor detection and 
 <tr>
 <td width="50%" valign="top">
 
+### 🏆 Certificate Bulk Generator
+
+**Automated Certificate Generation**
+
+A productivity-focused application designed to generate personalized certificates in bulk from recipient information and certificate templates.
+
+**Focus Areas**
+
+- 📄 Bulk certificate generation
+- 📊 Recipient data processing
+- 🎨 Template-based customization
+- ⚡ Document generation automation
+- 📥 Certificate export
+
+**Technologies**
+
+`Add Actual Project Technologies`
+
+<br/>
+
+<a href="YOUR-CERTIFICATE-BULK-GENERATOR-REPOSITORY-URL">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View Certificate Bulk Generator Repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
 ### 🎓 Student Learning Gap Detection
 
 **AI-Based Educational Support**
 
-An educational technology project focused on identifying potential learning gaps and helping explore more targeted learning support.
+An educational technology project focused on identifying potential learning gaps and supporting more targeted learning interventions.
 
 **Focus Areas**
 
@@ -203,6 +233,9 @@ An educational technology project focused on identifying potential learning gaps
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🔐 Secure Cloud Vault
@@ -229,9 +262,6 @@ A cloud-oriented application focused on file storage and sharing, with an emphas
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🏠 House Price Predictor
@@ -258,6 +288,9 @@ A machine learning project focused on predicting house prices and serving model 
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 💰 Smart Spend
@@ -284,16 +317,13 @@ A project focused on helping users organize expenses and improve awareness of pe
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
-### 🐳 Docker DevOps App
+### 🐳 Docker & DevOps
 
-**Containerization & DevOps Exploration**
+**Containerization & Deployment**
 
-A project for exploring application workflows and containerization with Docker.
+Exploring containerization and application deployment workflows to understand how software can run consistently across environments.
 
 **Focus Areas**
 
@@ -304,7 +334,7 @@ A project for exploring application workflows and containerization with Docker.
 
 **Technologies**
 
-`Python` `Docker`
+`Docker` `Git` `GitHub`
 
 <br/>
 
@@ -313,28 +343,16 @@ A project for exploring application workflows and containerization with Docker.
 </a>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
-### 🚀 More Projects
-
-I continuously explore new ideas and develop projects across AI, software development, and cloud technologies.
-
-**Explore More**
-
-- 🤖 AI and machine learning
-- 🌐 Web applications
-- ☁️ Cloud-based solutions
-- 🛠️ Developer tools
-
-<br/>
+<div align="center">
 
 <a href="https://github.com/GOKUL-S2648?tab=repositories">
 <img src="https://img.shields.io/badge/Explore_All_Projects-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Projects"/>
 </a>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -367,7 +385,7 @@ I continuously explore new ideas and develop projects across AI, software develo
                     └────────────────────────┘
 ```
 
-<sub>Conceptual learning architecture illustrating common technologies and integration patterns. Individual projects may use different architectures.</sub>
+<sub>Conceptual architecture showing common technologies and integration patterns. Individual projects may use different architectures.</sub>
 
 ---
 
@@ -377,6 +395,7 @@ I continuously explore new ideas and develop projects across AI, software develo
 |---|---|
 | 🤖 AI & Machine Learning | Deep Learning, CNNs, Computer Vision |
 | 📚 Generative AI | RAG, LLMs, Information Retrieval |
+| 🏆 Automation | Bulk Certificate Generation, Document Workflows |
 | ☁️ Cloud Computing | AWS, S3, EC2, RDS |
 | 🚀 DevOps | Docker, CI/CD, Git, GitHub |
 | 🌐 Web Development | React, Node.js, Flask, FastAPI |
@@ -399,6 +418,7 @@ Continuously developing practical skills in:
 
 - 🤖 Build practical AI and machine learning applications.
 - 📚 Deepen my understanding of RAG and Generative AI.
+- 🏆 Improve document automation and productivity tools.
 - ☁️ Strengthen AWS and cloud deployment skills.
 - 🐳 Improve containerization and CI/CD knowledge.
 - 🌐 Build maintainable, production-oriented applications.
