@@ -4,7 +4,7 @@
 
 ### AI & Machine Learning Student | Full-Stack Developer | Cloud & DevOps Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Exploring+Generative+AI+%26+RAG+%F0%9F%A7%A0;Developing+Full-Stack+Solutions+%F0%9F%92%BB;Learning+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Exploring+Generative+AI+%26+RAG+%F0%9F%A7%A0;Developing+Full-Stack+Solutions+%F0%9F%92%BB;Learning+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
@@ -234,20 +234,6 @@ A cloud-oriented application focused on file storage and sharing, with an emphas
 <tr>
 <td width="50%" valign="top">
 
-
-**Technologies**
-
-`Python` `TensorFlow` `Keras` `OpenCV`
-
-<br/>
-
-<a href="https://github.com/GOKUL-S2648?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github" alt="Explore Plant Disease Project"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
 ### 🏠 House Price Predictor
 
 **Machine Learning Prediction API**
@@ -272,9 +258,6 @@ A machine learning project focused on predicting house prices and serving model 
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 💰 Smart Spend
@@ -301,6 +284,9 @@ A project focused on helping users organize expenses and improve awareness of pe
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🐳 Docker DevOps App
@@ -327,16 +313,28 @@ A project for exploring application workflows and containerization with Docker.
 </a>
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-<div align="center">
+### 🚀 More Projects
+
+I continuously explore new ideas and develop projects across AI, software development, and cloud technologies.
+
+**Explore More**
+
+- 🤖 AI and machine learning
+- 🌐 Web applications
+- ☁️ Cloud-based solutions
+- 🛠️ Developer tools
+
+<br/>
 
 <a href="https://github.com/GOKUL-S2648?tab=repositories">
 <img src="https://img.shields.io/badge/Explore_All_Projects-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Projects"/>
 </a>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -369,7 +367,7 @@ A project for exploring application workflows and containerization with Docker.
                     └────────────────────────┘
 ```
 
-<sub>Conceptual learning architecture illustrating technologies and integration patterns; it does not imply every project uses this exact deployment.</sub>
+<sub>Conceptual learning architecture illustrating common technologies and integration patterns. Individual projects may use different architectures.</sub>
 
 ---
 
