@@ -234,18 +234,6 @@ A cloud-oriented application focused on file storage and sharing, with an emphas
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 Plant Disease Detection
-
-**CNN-Based Image Classification**
-
-A computer vision project exploring the classification of plant diseases from leaf images using deep learning.
-
-**Focus Areas**
-
-- 🌿 Image classification
-- 🖼️ Image preprocessing
-- 🧠 CNN-based prediction
-- 📊 Model evaluation
 
 **Technologies**
 
